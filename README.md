@@ -1,6 +1,6 @@
 # Zenopay Mobile Money Tanzania - Wix Integration
 
-![Zenopay Logo](https://zenoapi.com/logo.png) ![Wix Logo](https://www.wix.com/favicon.ico)
+![Zenopay Logo](https://zenopay.net/assets/logo.png) ![Wix Logo](https://www.wix.com/favicon.ico)
 
 A step-by-step guide to integrating Zenopay's Mobile Money Tanzania API with Wix for processing secure mobile payments (M-Pesa, Airtel Money, Tigo Pesa).
 
